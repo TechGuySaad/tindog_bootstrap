@@ -122,8 +122,9 @@ i{
 
 /* features section */
 #features{
-    position: static;
+    position: relative;
     padding: 1rem;
+    background-color:white;
     
 }
 
